@@ -4,7 +4,6 @@ ft
 A tool set for fasta/q files.
 
 ft view <fasta/q-file>
-
 ft count <fasta/q-file>
 
 ft stat <fasta/q-file>
