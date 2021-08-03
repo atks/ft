@@ -2,7 +2,7 @@ ft
 ==
 
 A tool set for fasta/q files.
-
+dasfsdfasdf
 ft view <fasta/q-file> <br>
 ft count <fasta/q-file> <br>
 ft stat <fasta/q-file> <br>
